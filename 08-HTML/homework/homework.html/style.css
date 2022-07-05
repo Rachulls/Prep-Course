@@ -1,0 +1,31 @@
+h1{
+color: rgb(181, 66, 40);
+}
+
+img{
+    width: 400px;
+}
+
+.thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: brown;
+    padding: 50px;
+    border-style: double;
+    border-color: blanchedalmond;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+body{
+    background-image: url('https://sommelier.com.pe/wp-content/uploads/WhatsApp-Image-2020-01-24-at-8.16.09-AM.jpeg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
